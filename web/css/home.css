@@ -99,3 +99,35 @@
     align-items: flex-start;
     width: fit-content;
 }
+
+
+
+
+
+
+.Body-container{
+    display: flex;
+    padding: 5px 15px;
+    gap: 20px;
+}
+.left-Body {
+    background-color: #a0c8ff;
+    width: 68%;
+    padding-bottom: 30% ;
+}
+.right-Body{
+    background-color:blue;
+    width: 28%;
+    padding-bottom: 30% ;
+    
+}
+
+
+
+
+
+
+
+
+
+
